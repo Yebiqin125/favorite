@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-GR_COOKIE  koa:sess=eyJ1c2VySWQiOjM5ODA1NSwiX2V4cGlyZSI6MTc2NjAzNjgzMzQzMCwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=t0ToovzoiqeIVfFuJi-rkfD7ISY
 """
+
+GR_COOKIE  koa:sess=eyJ1c2VySWQiOjM5ODA1NSwiX2V4cGlyZSI6MTc2NjAzNjgzMzQzMCwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=t0ToovzoiqeIVfFuJi-rkfD7ISY
 File: checkin.py(GLaDOS签到)
 Author: Hennessey
 cron: 40 0 * * *
